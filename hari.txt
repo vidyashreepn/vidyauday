@@ -2,8 +2,7 @@ hello world
 how are you 
 experience...
 ctc
-<<<<<<< HEAD
+HEAD
 sal
-=======
 bank
->>>>>>> 6e212961d203b21e40f33ed5c212865a4166fe0d
+20
