@@ -1,7 +1,1 @@
-hello world
-i m hello world
-thats tooo cool
-how are u
-ok im fine l
-long view
-no c
+hello world 
