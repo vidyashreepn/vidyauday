@@ -1,7 +1,12 @@
 this s third example
 hiiii
 hello good morning
+<<<<<<< HEAD
 good mornin
 
 
 hwru
+=======
+
+good mornin
+>>>>>>> 0a60c91c26c6bd0b39571162624cbebd2802507f
